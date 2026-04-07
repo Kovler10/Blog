@@ -15,9 +15,9 @@ pygmentsUseClasses = true
   twitter = "@Tal_Kovler"
   lastmod = true
   userStatusEmoji = "🐥"
-  favicon = "/images/icon.png"
-  headerIcon = "/images/icon.png"
-  avatar = "/images/avatar.png"
+  favicon = "/Blog/images/icon.png"
+  headerIcon = "/Blog/images/icon.png"
+  avatar = "/Blog/images/avatar.png"
   enableSearch = true
 
 [frontmatter]
