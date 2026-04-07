@@ -1,4 +1,4 @@
-baseURL = "https://kovler10.github.io/Blog/"
+baseURL = "https://kovler10.github.io/Blog"
 languageCode = "he"
 defaultContentLanguage = "he"
 title = "Kovler's Blog"
@@ -11,7 +11,7 @@ pygmentsUseClasses = true
   description = "I guess you'll find something here"
   github = "Kovler10"
   email = "tal06030@googlemail.com"
-  url = "https://Kovler10.github.io/blog"
+  url = "https://kovler10.github.io/Blog"
   twitter = "@Tal_Kovler"
   lastmod = true
   userStatusEmoji = "🐥"
