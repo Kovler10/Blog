@@ -1,0 +1,8 @@
+{{/* Override: wraps content in .ltr-content if front matter has ltr: true */}}
+{{ if .Params.ltr }}
+<div class="ltr-content">
+  {{ .Content }}
+</div>
+{{ else }}
+  {{ .Content }}
+{{ end }}

@@ -1,0 +1,39 @@
+baseURL = "https://Kovler10.github.io/"
+languageCode = "he"
+defaultContentLanguage = "he"
+title = "Kovler's Blog"
+theme = "github-style"
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+
+[params]
+  author = "Kovler"
+  description = "I guess you'll find something here"
+  github = "Kovler10"
+  email = "tal06030@googlemail.com"
+  url = "https://Kovler10.github.io/blog"
+  twitter = "@Tal_Kovler"
+  lastmod = true
+  userStatusEmoji = "🐥"
+  favicon = "/images/icon.png"
+  headerIcon = "/images/icon.png"
+  avatar = "/images/avatar.png"
+  enableSearch = true
+
+[frontmatter]
+  lastmod = ["lastmod", ":fileModTime", ":default"]
+
+[outputs]
+  home = ["HTML", "JSON", "RSS"]
+
+[outputFormats.JSON]
+  mediaType = "application/json"
+  baseName = "index"
+  isPlainText = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "github"
