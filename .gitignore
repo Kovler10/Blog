@@ -1,0 +1,28 @@
+# Hugo
+public/
+resources/_gen/
+.hugo_build.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Obsidian (workspace and local plugin state)
+**/.obsidian/
+
+# Local env and secrets
+.env
+.env.*
+!.env.example
+
+# Misc
+*.log
+tmp/
+temp/
