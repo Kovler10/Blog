@@ -6,6 +6,8 @@ summary: ""
 tags:
 ltr: true
 ---
+## The importance of work life balance
+
 The second I have hit the “publish” button on my previous post I had a few seconds of feeling proud and accomplished right before realizing that there's no way I could write a post once a week in the next couple of weeks. University tests season is back and I have no idea what I'll be tested on in 2 weeks time
 
 I had no choice but to postpone my new passion project and sit down and study. No distractions allowed.
